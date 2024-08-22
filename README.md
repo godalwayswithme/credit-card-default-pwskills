@@ -2,7 +2,7 @@
 
 Explore this comprehensive end-to-end machine learning project focused on predicting credit card defaults. The project covers all stages, including data preprocessing, model training, evaluation, and deployment using Streamlit. Feel free to explore the code, contribute, and use it for your learning and analysis.
 
-## [Project Link](#)
+## [Project Link](https://creditcarddefault.streamlit.app/)
 
 ## [LinkedIn Profile](#)
 
